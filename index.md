@@ -1,6 +1,6 @@
 ## BNBQ Games
 
-[CanoeSimulator](CanoeSimulator_7_11_2018/index.html)
+[CanoeSimulator](CanoeSimulator/index.html)
 
 ## Welcome to GitHub Pages
 
