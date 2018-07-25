@@ -7,6 +7,8 @@
 Mouse buttons put the paddles in the water. Move mouse up and down to move paddles forward and backward.
 Be careful of clicking out of the window.
 
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bnbq/bnbqgames/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
