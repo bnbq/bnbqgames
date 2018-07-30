@@ -9,6 +9,10 @@ Be careful of clicking out of the window.
 
 ---
 
+[What is this, a simulation for ants?](GameForAnts/index.html)
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bnbq/bnbqgames/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
