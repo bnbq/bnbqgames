@@ -13,3 +13,7 @@ Be careful of clicking out of the window.
 ### [What is this, a simulation for ants?](GameForAnts/index.html)
 
 ---
+
+### [s l i m e y b o i](Slimeyboi/index.html)
+
+---
